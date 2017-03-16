@@ -1,0 +1,48 @@
+body{
+  margin: 0px;
+  color: black;
+  background: rgb(245,245,245);
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  font-family: courier;
+  color: #44FFD2;
+}
+
+p {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+h1, h2 , h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+  background-image: url('http://lorempixel.com/800/600/');
+  padding: 150px 0;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 2px 2px grey;
+}
+
+.feature {
+  font-weight: lighter;
+  padding: 50px;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+#footer a {
+   color: lightgrey;
+   font-size: 20px;
+}
+
+#footer a:hover {
+  color: white;
+}
